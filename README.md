@@ -1,5 +1,5 @@
 # cleaningRobot
-Algorithm thar find how many cell is cleaned by robot
+Algorithm that find how many cell is cleaned by robot
 
 Given String array such as 
 String[] R = {"...X..", "....XX", "..X..."} we create a room for our robot.
